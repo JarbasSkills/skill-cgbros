@@ -11,7 +11,7 @@ from youtube_archivist import YoutubeMonitor
 class CGBrosSkill(OVOSCommonPlaybackSkill):
     def __init__(self):
         super().__init__("CGBros")
-        self.supported_media = [MediaType.MOVIE,
+        self.supported_media = [MediaType.SHORT_FILM,
                                 MediaType.GENERIC]
         self.skill_icon = self.default_bg = join(dirname(__file__), "ui", "cgbros_icon.jpg")
         self.archive = YoutubeMonitor(db_name="TheCGBros",
@@ -36,7 +36,7 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
     # matching
     def match_skill(self, phrase, media_type):
         score = 0
-        if self.voc_match(phrase, "movie") or media_type == MediaType.MOVIE:
+        if media_type == MediaType.SHORT_FILM:
             score += 10
         if self.voc_match(phrase, "cgbros"):
             score += 50
@@ -60,7 +60,7 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
         pl = self.featured_media()[:num_entries]
         return {
             "match_confidence": score,
-            "media_type": MediaType.MOVIE,
+            "media_type": MediaType.SHORT_FILM,
             "playlist": pl,
             "playback": PlaybackType.VIDEO,
             "skill_icon": self.skill_icon,
@@ -75,15 +75,15 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
         base_score = self.match_skill(phrase, media_type)
         if self.voc_match(phrase, "cgbros"):
             yield self.get_playlist(base_score)
-        if media_type == MediaType.MOVIE:
-            # only search db if user explicitly requested movies
+        if media_type == MediaType.SHORT_FILM:
+            # only search db if user explicitly requested short films
             phrase = self.normalize_title(phrase)
             for url, video in self.archive.db.items():
                 yield {
                     "title": video["title"],
                     "author": "The CGBros",
                     "match_confidence": self.calc_score(phrase, video, base_score),
-                    "media_type": MediaType.MOVIE,
+                    "media_type": MediaType.SHORT_FILM,
                     "uri": "youtube//" + url,
                     "playback": PlaybackType.VIDEO,
                     "skill_icon": self.skill_icon,
@@ -98,7 +98,7 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
             "title": video["title"],
             "image": video["thumbnail"],
             "match_confidence": 70,
-            "media_type": MediaType.MOVIE,
+            "media_type": MediaType.SHORT_FILM,
             "uri": "youtube//" + video["url"],
             "playback": PlaybackType.VIDEO,
             "skill_icon": self.skill_icon,
