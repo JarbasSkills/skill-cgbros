@@ -6,6 +6,7 @@ from ovos_utils.parse import fuzzy_match
 from ovos_workshop.skills.common_play import OVOSCommonPlaybackSkill, \
     ocp_search, ocp_featured_media
 from youtube_archivist import YoutubeMonitor
+import random
 
 
 class CGBrosSkill(OVOSCommonPlaybackSkill):
@@ -25,13 +26,15 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
     def initialize(self):
         bootstrap = "https://github.com/JarbasSkills/skill-cgbros/raw/dev/bootstrap.json"
         self.archive.bootstrap_from_url(bootstrap)
+        self.schedule_event(self._sync_db, random.randint(3600, 24 * 3600))
+
+    def _sync_db(self):
         for url in [
             "https://www.youtube.com/playlist?list=PL1dNyhqoSubu9MYIStaOqdgTIO-_lhHVG",
             "https://www.youtube.com/playlist?list=PL88D33D34A498DFE2",
         ]:
-            self.archive.monitor(url)
-        self.archive.setDaemon(True)
-        self.archive.start()
+            self.archive.parse_videos(url)
+        self.schedule_event(self._sync_db, random.randint(3600, 24 * 3600))
 
     # matching
     def match_skill(self, phrase, media_type):
