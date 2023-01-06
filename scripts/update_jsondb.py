@@ -6,7 +6,7 @@ from youtube_archivist import YoutubeMonitor
 
 
 archive = YoutubeMonitor(db_name="TheCGBros",
-                                      min_duration=30 * 60,
+                                     # min_duration=30 * 60,
                                       blacklisted_kwords=["trailer", "teaser", "movie scene",
                                                           "movie clip", "behind the scenes",
                                                           "Movie Preview", "Documentary", "Episode",
