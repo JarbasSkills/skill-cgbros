@@ -23,7 +23,7 @@ class CGBrosSkill(OVOSCommonPlaybackSkill):
                                                           "soundtrack", " OST", "opening theme"])
 
     def initialize(self):
-        bootstrap = f"https://raw.githubusercontent.com/OpenJarbas/streamindex/main/{self.archive.db.name}.json"
+        bootstrap = "https://github.com/JarbasSkills/skill-cgbros/raw/dev/bootstrap.json"
         self.archive.bootstrap_from_url(bootstrap)
         for url in [
             "https://www.youtube.com/playlist?list=PL1dNyhqoSubu9MYIStaOqdgTIO-_lhHVG",
