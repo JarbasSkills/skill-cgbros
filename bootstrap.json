@@ -75811,5 +75811,15 @@
         ],
         "thumbnail": "https://i.ytimg.com/vi/XyjrOHGr2sI/sddefault.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=JjFsMg8ZmgE": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"Pixelatl\" - by Exodo Animation Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=JjFsMg8ZmgE",
+        "duration": 154,
+        "upload_ts": 1673308800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/JjFsMg8ZmgE/sddefault.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
