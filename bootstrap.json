@@ -77943,5 +77943,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/Dcw_JmgU0_c/hq720.jpg?v=61b4cf58",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=addLHcrIPQA": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"When Pigs Fly\" - by Madeline Bledsoe + Ringling | TheCGBros",
+        "url": "https://youtube.com/watch?v=addLHcrIPQA",
+        "duration": 130,
+        "upload_ts": 1682553600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/addLHcrIPQA/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
