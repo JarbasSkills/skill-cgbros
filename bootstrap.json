@@ -77973,5 +77973,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/NIMAEx6ava0/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=Le8a8420glY": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"LA GUERRE TRES TRES FROIDE\" - by Clara Mari | TheCGBros",
+        "url": "https://youtube.com/watch?v=Le8a8420glY",
+        "duration": 268,
+        "upload_ts": 1685145600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/Le8a8420glY/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=E7jdMKQ8U78": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Pins Perdus\" - by Jade Brethome + ECV  | TheCGBros",
+        "url": "https://youtube.com/watch?v=E7jdMKQ8U78",
+        "duration": 346,
+        "upload_ts": 1684713600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/E7jdMKQ8U78/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
