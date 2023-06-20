@@ -77993,5 +77993,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/E7jdMKQ8U78/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=ClZ2Ms_JG-U": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"Crest\" - by Dylan Donaldson | TheCGBros",
+        "url": "https://youtube.com/watch?v=ClZ2Ms_JG-U",
+        "duration": 60,
+        "upload_ts": 1687132800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/ClZ2Ms_JG-U/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
