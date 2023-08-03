@@ -78073,5 +78073,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/ZBTHmlpTIDw/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=EGXX4zgNdqc": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Unabducted\" - by Michele Rocca | TheCGBros",
+        "url": "https://youtube.com/watch?v=EGXX4zgNdqc",
+        "duration": 260,
+        "upload_ts": 1691020800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/EGXX4zgNdqc/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
