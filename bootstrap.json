@@ -78133,5 +78133,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/IBvcjjCEnus/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=dySjnRD45ck": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Strings\" - by Team Ribbit | TheCGBros",
+        "url": "https://youtube.com/watch?v=dySjnRD45ck",
+        "duration": 375,
+        "upload_ts": 1693440000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/dySjnRD45ck/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
