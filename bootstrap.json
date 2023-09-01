@@ -78143,5 +78143,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/dySjnRD45ck/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=PECuio1TVVA": {
+        "author": "TheCGBros",
+        "title": "A Spooky CGI 3D Short Film: \"Frank\" | TheCGBros",
+        "url": "https://youtube.com/watch?v=PECuio1TVVA",
+        "duration": 65,
+        "upload_ts": 1693526400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/PECuio1TVVA/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
