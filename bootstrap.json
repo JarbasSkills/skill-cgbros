@@ -78213,5 +78213,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/FhkYCQ8DNTY/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=oO92tFh7WYM": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Bam Creep John\" - by Shu Fen Chern | TheCGBros",
+        "url": "https://youtube.com/watch?v=oO92tFh7WYM",
+        "duration": 60,
+        "upload_ts": 1695859200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/oO92tFh7WYM/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
