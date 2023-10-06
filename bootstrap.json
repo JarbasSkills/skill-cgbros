@@ -78233,5 +78233,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/wSK1B6SwQSA/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=4SzLDtGW_bc": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Little Crab\" - by Jonathan Souza | TheCGBros",
+        "url": "https://youtube.com/watch?v=4SzLDtGW_bc",
+        "duration": 48,
+        "upload_ts": 1696550400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/4SzLDtGW_bc/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
