@@ -78253,5 +78253,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/sdF7hCTIfvU/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=eBBDRjhbVVA": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Last Charge\" - by Render Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=eBBDRjhbVVA",
+        "duration": 104,
+        "upload_ts": 1697587200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/eBBDRjhbVVA/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=wNZxuF7TQoo": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"Night Village\" - by Maxim Kiselev | TheCGBros",
+        "url": "https://youtube.com/watch?v=wNZxuF7TQoo",
+        "duration": 182,
+        "upload_ts": 1697587200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/wNZxuF7TQoo/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
