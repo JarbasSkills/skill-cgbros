@@ -78293,5 +78293,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/_wWISxGhorU/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=z24rqrxlNPY": {
+        "author": "TheCGBros",
+        "title": "A Sci Fi Short Film : \"From The Future With Love\" - by K-Michel Parandi | TheCGBros",
+        "url": "https://youtube.com/watch?v=z24rqrxlNPY",
+        "duration": 740,
+        "upload_ts": 1429315200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/z24rqrxlNPY/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=FJ1fMWSg3xc": {
+        "author": "TheCGBros",
+        "title": "CGI & VFX Animated Shorts : \"HYBRIS\" - (ArtFX) | TheCGBros",
+        "url": "https://youtube.com/watch?v=FJ1fMWSg3xc",
+        "duration": 522,
+        "upload_ts": 1408320000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/FJ1fMWSg3xc/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
