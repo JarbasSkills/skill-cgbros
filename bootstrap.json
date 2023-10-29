@@ -78313,5 +78313,35 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/FJ1fMWSg3xc/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=PbvDZX_YaMo": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short \"Ex. E.T.\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=PbvDZX_YaMo",
+        "duration": 505,
+        "upload_ts": 1436745600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/PbvDZX_YaMo/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=I7Se_cqJGso": {
+        "author": "TheCGBros",
+        "title": "VFX Short Films: \"Virus In Paradise\"  - by Irya Ajith",
+        "url": "https://youtube.com/watch?v=I7Se_cqJGso",
+        "duration": 534,
+        "upload_ts": 1528070400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/I7Se_cqJGso/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=vNQ1mhHiUUQ": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"Hermann\" - by Jordi Garcia | TheCGBros",
+        "url": "https://youtube.com/watch?v=vNQ1mhHiUUQ",
+        "duration": 166,
+        "upload_ts": 1594339200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/vNQ1mhHiUUQ/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLB9aEkDSjVi1rUs14uGcioDzG9pWA",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
