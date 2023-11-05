@@ -78413,5 +78413,45 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/xQUEExIkJQI/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=AsadcpE9g1w": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"Abracadabra\" - by  ISART DIGITAL | TheCGBros",
+        "url": "https://youtube.com/watch?v=AsadcpE9g1w",
+        "duration": 174,
+        "upload_ts": 1660521600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/AsadcpE9g1w/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=_2MpcO_zT_U": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"GENESIS\" by ISART Digital | TheCGBros",
+        "url": "https://youtube.com/watch?v=_2MpcO_zT_U",
+        "duration": 106,
+        "upload_ts": 1659571200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/_2MpcO_zT_U/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=-c56SJ6zFyQ": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short: \"UNE BELLE ERREUR\" (A Big Mistake) by ISART Digital | TheCGBros",
+        "url": "https://youtube.com/watch?v=-c56SJ6zFyQ",
+        "duration": 120,
+        "upload_ts": 1659398400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/-c56SJ6zFyQ/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=-usWXbVHchg": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Animated Short: \"Space Apero\" - by ISART DIGITAL | TheCGBros",
+        "url": "https://youtube.com/watch?v=-usWXbVHchg",
+        "duration": 211,
+        "upload_ts": 1595548800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/-usWXbVHchg/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
