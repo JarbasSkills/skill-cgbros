@@ -78463,5 +78463,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/R3UKDPXc6HY/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=8RyjwKrKQYs": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Glare\" - by Herman Olsbo | TheCGBros",
+        "url": "https://youtube.com/watch?v=8RyjwKrKQYs",
+        "duration": 108,
+        "upload_ts": 1699833600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/8RyjwKrKQYs/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
