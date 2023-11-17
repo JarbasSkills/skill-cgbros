@@ -78493,5 +78493,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/E7ZNNvVtcRg/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=6SulUKq_OZw": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"BackFire\" - by Will Savage, Emily Hestelow, and Jacob Sadler | TheCGBros",
+        "url": "https://youtube.com/watch?v=6SulUKq_OZw",
+        "duration": 315,
+        "upload_ts": 1700179200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/6SulUKq_OZw/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
