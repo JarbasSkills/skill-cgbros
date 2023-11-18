@@ -78503,5 +78503,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/6SulUKq_OZw/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=fe-PUdRSBnU": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Laundromat\" - by The Laundromat Team | TheCGBros",
+        "url": "https://youtube.com/watch?v=fe-PUdRSBnU",
+        "duration": 65,
+        "upload_ts": 1700265600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/fe-PUdRSBnU/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
