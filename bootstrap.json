@@ -78523,5 +78523,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/A-QsJcIw-Bw/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=TavtauupbGE": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Frostbyte\" - by Team FROSTBYTE | TheCGBros",
+        "url": "https://youtube.com/watch?v=TavtauupbGE",
+        "duration": 427,
+        "upload_ts": 1701475200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/TavtauupbGE/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
