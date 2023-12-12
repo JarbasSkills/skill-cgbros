@@ -78553,5 +78553,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/r8tA4D079IU/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=kliPggjI7Gg": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Spot: \"BMW Symphony\" - by Mondlicht Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=kliPggjI7Gg",
+        "duration": 99,
+        "upload_ts": 1702339200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/kliPggjI7Gg/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
