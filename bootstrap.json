@@ -78573,5 +78573,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/6vM4JoYzZW8/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=A5c98xCqlPc": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short \"Sticky Note: Unreal Engine VP Challenge'23\" - Split Second Studio | TheCGBros",
+        "url": "https://youtube.com/watch?v=A5c98xCqlPc",
+        "duration": 299,
+        "upload_ts": 1702771200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/A5c98xCqlPc/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
