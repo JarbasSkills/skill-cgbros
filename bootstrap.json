@@ -78583,5 +78583,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/A5c98xCqlPc/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=wM0VNJQZQ0A": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Shelf Life\" - by Chris Gale | TheCGBros",
+        "url": "https://youtube.com/watch?v=wM0VNJQZQ0A",
+        "duration": 166,
+        "upload_ts": 1703116800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/wM0VNJQZQ0A/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
