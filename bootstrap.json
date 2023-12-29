@@ -78603,5 +78603,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/dn0jfHPhq98/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=UFnu-KVJn7c": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Hog|Mirror\" - by Kroftle Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=UFnu-KVJn7c",
+        "duration": 125,
+        "upload_ts": 1703808000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/UFnu-KVJn7c/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
