@@ -78613,5 +78613,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/UFnu-KVJn7c/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=cSjgAzq5cuE": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"ROBIE\" - by Mooler Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=cSjgAzq5cuE",
+        "duration": 600,
+        "upload_ts": 1704153600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/cSjgAzq5cuE/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
