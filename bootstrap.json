@@ -78623,5 +78623,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/cSjgAzq5cuE/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=h_rfgdqrLK0": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Sun\" - by Jakub Brokl | TheCGBros",
+        "url": "https://youtube.com/watch?v=h_rfgdqrLK0",
+        "duration": 395,
+        "upload_ts": 1704499200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/h_rfgdqrLK0/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
