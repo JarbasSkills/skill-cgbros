@@ -78633,5 +78633,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/h_rfgdqrLK0/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=5cdq1PKFcmc": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Double Trouble\" - by Brendan Casey | TheCGBros",
+        "url": "https://youtube.com/watch?v=5cdq1PKFcmc",
+        "duration": 333,
+        "upload_ts": 1705276800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/5cdq1PKFcmc/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
