@@ -78653,5 +78653,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/B8bGoo5lt7Y/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=bjsI-kJ_YzY": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Rebirther\" - by Benjamin Hodges | TheCGBros",
+        "url": "https://youtube.com/watch?v=bjsI-kJ_YzY",
+        "duration": 117,
+        "upload_ts": 1706140800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/bjsI-kJ_YzY/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
