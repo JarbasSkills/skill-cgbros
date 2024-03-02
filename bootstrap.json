@@ -78743,5 +78743,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/1gL3zSyVPiA/hq720.jpg?v=65ceecb0",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=fVRKa0nIivU": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Matriochka - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=fVRKa0nIivU",
+        "duration": 421,
+        "upload_ts": 1709337600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/fVRKa0nIivU/hq720.jpg?v=65e36504",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
