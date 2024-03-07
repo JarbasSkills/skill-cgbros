@@ -78753,5 +78753,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/fVRKa0nIivU/hq720.jpg?v=65e36504",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=AhICx6NYjbM": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Snowball\" - by 3DSense Media School | TheCGBros",
+        "url": "https://youtube.com/watch?v=AhICx6NYjbM",
+        "duration": 300,
+        "upload_ts": 1709683200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/AhICx6NYjbM/hq720.jpg?v=65e9630d",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
