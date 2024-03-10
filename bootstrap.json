@@ -78773,5 +78773,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/CS0SVK7v3cw/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACtAWKAgwIABABGH8gPCgcMA8=&rs=AOn4CLAUVh6-hec2aboMwNksQ-HoscE__g",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=51WrY6dLeIo": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Scums\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=51WrY6dLeIo",
+        "duration": 345,
+        "upload_ts": 1709942400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/51WrY6dLeIo/hq720.jpg?v=65ed03a3",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
