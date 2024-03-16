@@ -78783,5 +78783,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/51WrY6dLeIo/hq720.jpg?v=65ed03a3",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=hdfUHwg_MkI": {
+        "author": "TheCGBros",
+        "title": "CGI 3D Animated Short Film: \"Sigurdr\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=hdfUHwg_MkI",
+        "duration": 435,
+        "upload_ts": 1406937600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/hdfUHwg_MkI/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=hv9c_HuK9Gg": {
+        "author": "TheCGBros",
+        "title": "CGI Animated Short Film : \"Dji Death Fails\" by Simpals | TheCGBros",
+        "url": "https://youtube.com/watch?v=hv9c_HuK9Gg",
+        "duration": 239,
+        "upload_ts": 1358467200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/hv9c_HuK9Gg/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
