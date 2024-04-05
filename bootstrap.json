@@ -78843,5 +78843,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/CnE0FD3S6QA/hq720.jpg?v=66078211",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=k9IwdrWfBwQ": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Roald\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=k9IwdrWfBwQ",
+        "duration": 341,
+        "upload_ts": 1712275200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/k9IwdrWfBwQ/hq720.jpg?v=66102fd0",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
