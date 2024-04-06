@@ -78853,5 +78853,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/k9IwdrWfBwQ/hq720.jpg?v=66102fd0",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=tsoFWWI20SM": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Screensaver\" - by Cahit Topaktaş | TheCGBros",
+        "url": "https://youtube.com/watch?v=tsoFWWI20SM",
+        "duration": 790,
+        "upload_ts": 1712361600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/tsoFWWI20SM/hq720.jpg?v=66117525",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=pGN9xyaI-BI": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Stars\" - by Chase Hogan | TheCGBros",
+        "url": "https://youtube.com/watch?v=pGN9xyaI-BI",
+        "duration": 0,
+        "upload_ts": 1712188800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/pGN9xyaI-BI/hq720.jpg?v=66119b8f",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
