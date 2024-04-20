@@ -78903,5 +78903,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/yazcZIA3IrY/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=-zSj4hmhACs": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Celestial\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=-zSj4hmhACs",
+        "duration": 385,
+        "upload_ts": 1713571200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/-zSj4hmhACs/hq720.jpg?v=6623f8ce",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
