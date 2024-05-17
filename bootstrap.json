@@ -79533,5 +79533,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/f43OHu-Gaq4/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLDmiRxV6yGHJ5PccYYLY7-K56lD0Q",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=Wl9llfy-GG4": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Flipou\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=Wl9llfy-GG4",
+        "duration": 318,
+        "upload_ts": 1715904000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/Wl9llfy-GG4/hq720.jpg?v=66478204",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
