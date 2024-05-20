@@ -79553,5 +79553,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/i0GI5kGxKLA/hq720.jpg?v=66490fbd",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=cOUzKzLUJXI": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Lethal Morbier\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=cOUzKzLUJXI",
+        "duration": 416,
+        "upload_ts": 1716163200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/cOUzKzLUJXI/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
