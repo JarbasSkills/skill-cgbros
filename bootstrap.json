@@ -79583,5 +79583,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/1TnbVh4f4qQ/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=B9nhYwjwPxM": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Stone's Clip\" - by Baignoire Bros | TheCGBros",
+        "url": "https://youtube.com/watch?v=B9nhYwjwPxM",
+        "duration": 70,
+        "upload_ts": 1716940800.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/B9nhYwjwPxM/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
