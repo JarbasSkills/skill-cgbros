@@ -79593,5 +79593,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/B9nhYwjwPxM/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=r9rCgN-Nv-w": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Sound of Light\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=r9rCgN-Nv-w",
+        "duration": 351,
+        "upload_ts": 1717027200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/r9rCgN-Nv-w/hq720.jpg?v=665899ea",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
