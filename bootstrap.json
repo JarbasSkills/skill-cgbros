@@ -79613,5 +79613,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/M5t4UHllkUM/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAJvAlyAUUxT81EsTTPqvJzurmJHg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=uqL0piw6i6s": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"A Cardboard Dad\" (Un Papa en Carton) - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=uqL0piw6i6s",
+        "duration": 298,
+        "upload_ts": 1717200000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/uqL0piw6i6s/hq720.jpg?v=665b3a60",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=X4YvzeH8Hxc": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Exodus\" - by ECV | TheCGBros",
+        "url": "https://youtube.com/watch?v=X4YvzeH8Hxc",
+        "duration": 0,
+        "upload_ts": 1717200000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/X4YvzeH8Hxc/hq720.jpg?v=665b7443",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
