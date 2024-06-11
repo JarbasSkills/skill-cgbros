@@ -79653,5 +79653,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/RtieCZ4XgCI/hq720.jpg?v=6667197b",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=ZvPfAyabvAE": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"BreakPoint\" - by ECV | TheCGBros",
+        "url": "https://youtube.com/watch?v=ZvPfAyabvAE",
+        "duration": 301,
+        "upload_ts": 1718064000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/ZvPfAyabvAE/hq720.jpg?v=666874e6",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
