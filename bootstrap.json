@@ -79723,5 +79723,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/zV-U1d9EE7s/hq720.jpg?v=6682e61d",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=swYBl6r9hf0": {
+        "author": "TheCGBros",
+        "title": "CGI VFX Short : \"FUGU & TAKO\"  by - Robot VFX",
+        "url": "https://youtube.com/watch?v=swYBl6r9hf0",
+        "duration": 75,
+        "upload_ts": 1336953600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/swYBl6r9hf0/hq720.jpg",
+        "playlist": "CGI & VFX Short Films!"
     }
 }
