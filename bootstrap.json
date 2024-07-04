@@ -79733,5 +79733,35 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/swYBl6r9hf0/hq720.jpg",
         "playlist": "CGI & VFX Short Films!"
+    },
+    "https://youtube.com/watch?v=FG3p8jRcvvQ": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"The Lonely Lighthouse\" - by Keion Ing | TheCGBros",
+        "url": "https://youtube.com/watch?v=FG3p8jRcvvQ",
+        "duration": 1005,
+        "upload_ts": 1720051200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/FG3p8jRcvvQ/hq720.jpg?v=6686b3dd",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=zKKoewANiZE": {
+        "author": "TheCGBros",
+        "title": "A Unreal Engine Short Film: “Tokyo: The Box” - By Ninja Lama Bros | TheCGBros",
+        "url": "https://youtube.com/watch?v=zKKoewANiZE",
+        "duration": 60,
+        "upload_ts": 1720051200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/zKKoewANiZE/hq720.jpg?v=6686c622",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=OoCxrTX7Q5w": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Crusader| The Ruins of Greed\" - by Mondlicht Studios | TheCGBros",
+        "url": "https://youtube.com/watch?v=OoCxrTX7Q5w",
+        "duration": 83,
+        "upload_ts": 1681171200.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/OoCxrTX7Q5w/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLD-hRf0lThq1Cf3C15boKmZBoMYvQ",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
