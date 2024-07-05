@@ -79763,5 +79763,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/OoCxrTX7Q5w/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLD-hRf0lThq1Cf3C15boKmZBoMYvQ",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=E3yd_HAGRu8": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Flamme\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=E3yd_HAGRu8",
+        "duration": 300,
+        "upload_ts": 1720137600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/E3yd_HAGRu8/hq720.jpg?v=66884f7a",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
