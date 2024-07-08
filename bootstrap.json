@@ -79773,5 +79773,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/E3yd_HAGRu8/hq720.jpg?v=66884f7a",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=lUpcCM-xEkw": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Goupil & Corbak\" - by  ECV | TheCGBros",
+        "url": "https://youtube.com/watch?v=lUpcCM-xEkw",
+        "duration": 264,
+        "upload_ts": 1720310400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/lUpcCM-xEkw/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
