@@ -79783,5 +79783,15 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/lUpcCM-xEkw/hq720.jpg",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=t_kqkauVC60": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Instinct\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=t_kqkauVC60",
+        "duration": 265,
+        "upload_ts": 1720569600.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/t_kqkauVC60/hq720.jpg?v=668ec28c",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
