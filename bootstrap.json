@@ -79853,5 +79853,25 @@
         "tags": [],
         "thumbnail": "https://i.ytimg.com/vi/B_u7M1f7vaw/hq720.jpg?v=66a2621b",
         "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=45Pzx3A97A0": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"A Cookies Adventure\" - by ESMA | TheCGBros",
+        "url": "https://youtube.com/watch?v=45Pzx3A97A0",
+        "duration": 428,
+        "upload_ts": 1719792000.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/45Pzx3A97A0/hq720.jpg",
+        "playlist": "CGI 3D Animated Short Films!"
+    },
+    "https://youtube.com/watch?v=-IOsNj6dr40": {
+        "author": "TheCGBros",
+        "title": "A CGI 3D Short Film: \"Ouroboros\" - by Creative Seeds | TheCGBros",
+        "url": "https://youtube.com/watch?v=-IOsNj6dr40",
+        "duration": 0,
+        "upload_ts": 1722470400.0,
+        "tags": [],
+        "thumbnail": "https://i.ytimg.com/vi/-IOsNj6dr40/hq720.jpg?v=66ac7e89",
+        "playlist": "CGI 3D Animated Short Films!"
     }
 }
